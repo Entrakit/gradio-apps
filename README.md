@@ -1,5 +1,5 @@
 ---
-title: Text-to-Image Gradio Template
+title: CompVis Stable Diffusion V1 4
 emoji: 🖼
 colorFrom: purple
 colorTo: red
